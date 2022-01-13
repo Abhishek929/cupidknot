@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>cupid knot</title>
+        <title>Matrimony</title>
         <link rel="stylesheet" href="//code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
         <link rel="stylesheet" href="/resources/demos/style.css">
 
@@ -52,7 +52,7 @@
             <header>
                 <div class="d-flex flex-column flex-md-row align-items-center pb-3 mb-4 border-bottom">
                   <a href="/" class="d-flex align-items-center text-dark text-decoration-none">
-                    <span class="fs-4">CupidKnot</span>
+                    <span class="fs-4">Matrimony</span>
                   </a>
 
                   <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
